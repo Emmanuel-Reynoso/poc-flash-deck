@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "STORAGE_CONNECTION_STRING": "UseDevelopmentStorage=true",
+    "AUTO_CREATE_RESOURCES": "true",
+    "HTML_CONTAINER": "html",
+    "MAX_UPLOAD_MB": "20",
+    "SHARE_MAX_DAYS": "30"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}

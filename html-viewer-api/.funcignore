@@ -1,0 +1,17 @@
+.git*
+.github
+.venv
+.pytest_cache
+__pycache__
+.azurite
+.env
+.env.example
+tests
+infra
+docker-compose.yml
+README.md
+local.settings.json
+local.settings.example.json
+requirements-dev.txt
+scripts
+start.sh
